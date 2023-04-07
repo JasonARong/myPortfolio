@@ -160,6 +160,9 @@ noscript a{
     gap: 25px;
     grid-template-columns: 1.3fr 0.7fr;
     grid-template-rows: 1fr;
+    max-width: 1446px;
+    margin-right: auto;
+    margin-left: auto;
 }
 #videoDisplay video{
     width: 100%;
